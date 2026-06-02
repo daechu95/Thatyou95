@@ -13,7 +13,7 @@
       "description": "마린이들이 뛰어놀라고 만든 흐감서버전용 접속기입니다.",
       "icon": "https://raw.githubusercontent.com/daechu95/Thatyou95/main/icon.png",
       "version": "1.21.11",
-      "address": "씨미서버인증씨비서버인증씨븨서버인증.메인.한국:30000",
+      "address": "220.93.203.68:30000",
       "discord": {
         "shortId": "heugam",
         "largeImageKey": "server_icon"
