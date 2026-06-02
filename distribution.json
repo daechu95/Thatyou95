@@ -1,9 +1,9 @@
 {
   "version": "1.0.0",
   "discord": {
-    "clientId": "",
-    "smallImageText": "",
-    "largeImageText": ""
+    "clientId": "123456789012345678",
+    "smallImageText": "흐감서버",
+    "largeImageText": "흐감서버"
   },
   "servers": [
     {
@@ -11,7 +11,7 @@
       "name": "흐감서버",
       "type": "release",
       "description": "마린이들이 뛰어놀라고 만든 흐감서버전용 접속기입니다.",
-      "icon": "https://raw.githubusercontent.com/Thatyou95/Thatyou95/main/icon.png",
+      "icon": "https://raw.githubusercontent.com/daechu95/Thatyou95/main/icon.png",
       "version": "1.21.11",
       "address": "씨미서버인증씨비서버인증씨븨서버인증.메인.한국:30000",
       "discord": {
@@ -23,21 +23,7 @@
       "javaOptions": {
         "ram": 4096
       },
-      "modules": [
-        {
-          "id": "net.fabricmc.fabric-loader",
-          "name": "Fabric Loader",
-          "type": "Library",
-          "required": {
-            "value": true
-          },
-          "artifact": {
-            "size": 0,
-            "MD5": "",
-            "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
-          }
-        }
-      ]
+      "modules": []
     }
   ]
 }
